@@ -9,7 +9,7 @@ A script creates a Sales Hub, adds your Sales Content folder, then another scrip
 `POST /2.0/ai/ask`. An optional HTML page shows how to embed the hub AI chat
 in a CRM sidebar.
 
-The companion repository to the tutorial is: 
+This is the companion repository to the tutorial: 
 **[Build a sales RFP answer bank with Box Hubs and AI](https://developer.box.com/tutorials/sales-rfp-answer-bank)**.
 
 ## What it does
