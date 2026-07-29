@@ -1,4 +1,4 @@
-# Box sales RFP answer bank
+# Box RFP answer bank
 
 A minimal, runnable reference app that provisions a
 [Box Hub](https://developer.box.com/guides/hubs-api/), indexes curated sales
@@ -10,7 +10,7 @@ A script creates a Sales Hub, adds your Sales Content folder, then another scrip
 in a CRM sidebar.
 
 This is the companion repository to the tutorial: 
-**[Build a sales RFP answer bank with Box Hubs and AI](https://developer.box.com/tutorials/sales-rfp-answer-bank)**.
+**[Build an answer bank with Box Hubs and AI](https://developer.box.com/tutorials/sales-rfp-answer-bank)**.
 
 ## What it does
 
